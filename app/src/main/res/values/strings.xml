@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Guess the Day</string>
+    <string name="guess_the_day">Guess the Day</string>
+    <string name="highscore">Highscore : %s</string>
+    <string name="play">play</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="option_1">Option_1 %s</string>
+    <string name="option_2">Option_2 %s</string>
+    <string name="option_3">Option_3 %s</string>
+    <string name="option_4">Option_4 %s</string>
+    <string name="random_date">Random Date</string>
+    <string name="confirm">Confirm</string>
+    <string name="score_s">Score : %s</string>
+    <string name="instructions">Guess the correct Day, of the randomly generated Date. Guess, as much as you can within the given time. Every correct guess gets you 2 points. But choose an incorrect option, 1 point will be deducted. Enjoy the Game. </string>
+    <string name="_01_00">01:00</string>
+</resources>
